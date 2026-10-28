@@ -57,7 +57,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": true
+      "enabled": false
     }
   }
 }
